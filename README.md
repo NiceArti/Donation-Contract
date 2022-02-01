@@ -2,7 +2,7 @@
 
 This contract is made for make donation fond 
 
-Contract address: 0xeDAC0b1Df9F88426e613DCcf43AED5c675A59773
+See on rinkeby. [Link](https://rinkeby.etherscan.io/address/0xeDAC0b1Df9F88426e613DCcf43AED5c675A59773)
 
 
 Try running some of the following tasks:
